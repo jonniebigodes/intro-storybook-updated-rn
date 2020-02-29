@@ -68,7 +68,7 @@ Task.propTypes = {
 
 import * as React from "react";
 import PropTypes from "prop-types";
-import { TextInput, SafeAreaView, View, TouchableOpacity } from "react-native";
+import { Text, SafeAreaView, View, TouchableOpacity } from "react-native";
 import { styles } from "../constants/globalStyles";
 import PercolateIcons from "../constants/Percolate";
 
