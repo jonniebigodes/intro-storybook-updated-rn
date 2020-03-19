@@ -32,30 +32,31 @@ describe('App', () => {
  */
 
  // proposed change for test with expo template
- /* 
-import * as React from "react";
+/* import * as React from 'react';
+import { act, create } from 'react-test-renderer';
 
-import { act, create } from "react-test-renderer";
+import App from '../App';
 
-import App from "../App";
-
-jest.mock("expo", () => ({
-  AppLoading: "AppLoading",
+jest.mock('expo', () => ({
   Linking: {
-    makeUrl: () => "/"
-  }
+    makeUrl: () => '/',
+  },
+  SplashScreen: {
+    preventAutoHide: () => 'preventAutoHide',
+    hide: () => 'hide',
+  },
 }));
+
 jest.mock("../navigation/BottomTabNavigator", () => "BottomTabNavigator");
 
-
-describe("App", () => {
+describe('App', () => {
   jest.useFakeTimers();
-  let tree;
-  it(`renders correctly`, () => {
 
+  let tree;
+  it(`renders correctly`, async () => {
     // act is used to prevent snapshot returning null
-    act(() => {
-      tree = create(<App skipLoadingScreen/>);
+    await act(async () => {
+      tree = await create(<App />);
     });
     expect(tree.toJSON()).toMatchSnapshot();
   });

@@ -166,25 +166,12 @@ exports[`Storyshots PureInboxScreen default 1`] = `
                 }
               />
             </View>
-            <TextInput
-              allowFontScaling={true}
-              editable={false}
-              placeholder="Input Title"
-              rejectResponderTermination={true}
-              style={
-                Object {
-                  "backgroundColor": "transparent",
-                  "fontFamily": "NunitoSans",
-                  "fontSize": 14,
-                  "fontStyle": "normal",
-                  "lineHeight": 20,
-                  "padding": 10,
-                  "width": "95%",
-                }
-              }
-              underlineColorAndroid="transparent"
-              value="Task 1"
-            />
+            <Text
+              ellipsizeMode="tail"
+              numberOfLines={1}
+            >
+              Task 1
+            </Text>
             <View
               accessible={true}
               focusable={true}
@@ -255,25 +242,12 @@ exports[`Storyshots PureInboxScreen default 1`] = `
                 }
               />
             </View>
-            <TextInput
-              allowFontScaling={true}
-              editable={false}
-              placeholder="Input Title"
-              rejectResponderTermination={true}
-              style={
-                Object {
-                  "backgroundColor": "transparent",
-                  "fontFamily": "NunitoSans",
-                  "fontSize": 14,
-                  "fontStyle": "normal",
-                  "lineHeight": 20,
-                  "padding": 10,
-                  "width": "95%",
-                }
-              }
-              underlineColorAndroid="transparent"
-              value="Task 2"
-            />
+            <Text
+              ellipsizeMode="tail"
+              numberOfLines={1}
+            >
+              Task 2
+            </Text>
             <View
               accessible={true}
               focusable={true}
@@ -344,25 +318,12 @@ exports[`Storyshots PureInboxScreen default 1`] = `
                 }
               />
             </View>
-            <TextInput
-              allowFontScaling={true}
-              editable={false}
-              placeholder="Input Title"
-              rejectResponderTermination={true}
-              style={
-                Object {
-                  "backgroundColor": "transparent",
-                  "fontFamily": "NunitoSans",
-                  "fontSize": 14,
-                  "fontStyle": "normal",
-                  "lineHeight": 20,
-                  "padding": 10,
-                  "width": "95%",
-                }
-              }
-              underlineColorAndroid="transparent"
-              value="Task 3"
-            />
+            <Text
+              ellipsizeMode="tail"
+              numberOfLines={1}
+            >
+              Task 3
+            </Text>
             <View
               accessible={true}
               focusable={true}
@@ -433,25 +394,12 @@ exports[`Storyshots PureInboxScreen default 1`] = `
                 }
               />
             </View>
-            <TextInput
-              allowFontScaling={true}
-              editable={false}
-              placeholder="Input Title"
-              rejectResponderTermination={true}
-              style={
-                Object {
-                  "backgroundColor": "transparent",
-                  "fontFamily": "NunitoSans",
-                  "fontSize": 14,
-                  "fontStyle": "normal",
-                  "lineHeight": 20,
-                  "padding": 10,
-                  "width": "95%",
-                }
-              }
-              underlineColorAndroid="transparent"
-              value="Task 4"
-            />
+            <Text
+              ellipsizeMode="tail"
+              numberOfLines={1}
+            >
+              Task 4
+            </Text>
             <View
               accessible={true}
               focusable={true}
@@ -522,25 +470,12 @@ exports[`Storyshots PureInboxScreen default 1`] = `
                 }
               />
             </View>
-            <TextInput
-              allowFontScaling={true}
-              editable={false}
-              placeholder="Input Title"
-              rejectResponderTermination={true}
-              style={
-                Object {
-                  "backgroundColor": "transparent",
-                  "fontFamily": "NunitoSans",
-                  "fontSize": 14,
-                  "fontStyle": "normal",
-                  "lineHeight": 20,
-                  "padding": 10,
-                  "width": "95%",
-                }
-              }
-              underlineColorAndroid="transparent"
-              value="Task 5"
-            />
+            <Text
+              ellipsizeMode="tail"
+              numberOfLines={1}
+            >
+              Task 5
+            </Text>
             <View
               accessible={true}
               focusable={true}
@@ -611,25 +546,12 @@ exports[`Storyshots PureInboxScreen default 1`] = `
                 }
               />
             </View>
-            <TextInput
-              allowFontScaling={true}
-              editable={false}
-              placeholder="Input Title"
-              rejectResponderTermination={true}
-              style={
-                Object {
-                  "backgroundColor": "transparent",
-                  "fontFamily": "NunitoSans",
-                  "fontSize": 14,
-                  "fontStyle": "normal",
-                  "lineHeight": 20,
-                  "padding": 10,
-                  "width": "95%",
-                }
-              }
-              underlineColorAndroid="transparent"
-              value="Task 6"
-            />
+            <Text
+              ellipsizeMode="tail"
+              numberOfLines={1}
+            >
+              Task 6
+            </Text>
             <View
               accessible={true}
               focusable={true}
@@ -851,25 +773,12 @@ exports[`Storyshots PureTaskList default 1`] = `
                 }
               />
             </View>
-            <TextInput
-              allowFontScaling={true}
-              editable={false}
-              placeholder="Input Title"
-              rejectResponderTermination={true}
-              style={
-                Object {
-                  "backgroundColor": "transparent",
-                  "fontFamily": "NunitoSans",
-                  "fontSize": 14,
-                  "fontStyle": "normal",
-                  "lineHeight": 20,
-                  "padding": 10,
-                  "width": "95%",
-                }
-              }
-              underlineColorAndroid="transparent"
-              value="Task 1"
-            />
+            <Text
+              ellipsizeMode="tail"
+              numberOfLines={1}
+            >
+              Task 1
+            </Text>
             <View
               accessible={true}
               focusable={true}
@@ -940,25 +849,12 @@ exports[`Storyshots PureTaskList default 1`] = `
                 }
               />
             </View>
-            <TextInput
-              allowFontScaling={true}
-              editable={false}
-              placeholder="Input Title"
-              rejectResponderTermination={true}
-              style={
-                Object {
-                  "backgroundColor": "transparent",
-                  "fontFamily": "NunitoSans",
-                  "fontSize": 14,
-                  "fontStyle": "normal",
-                  "lineHeight": 20,
-                  "padding": 10,
-                  "width": "95%",
-                }
-              }
-              underlineColorAndroid="transparent"
-              value="Task 2"
-            />
+            <Text
+              ellipsizeMode="tail"
+              numberOfLines={1}
+            >
+              Task 2
+            </Text>
             <View
               accessible={true}
               focusable={true}
@@ -1029,25 +925,12 @@ exports[`Storyshots PureTaskList default 1`] = `
                 }
               />
             </View>
-            <TextInput
-              allowFontScaling={true}
-              editable={false}
-              placeholder="Input Title"
-              rejectResponderTermination={true}
-              style={
-                Object {
-                  "backgroundColor": "transparent",
-                  "fontFamily": "NunitoSans",
-                  "fontSize": 14,
-                  "fontStyle": "normal",
-                  "lineHeight": 20,
-                  "padding": 10,
-                  "width": "95%",
-                }
-              }
-              underlineColorAndroid="transparent"
-              value="Task 3"
-            />
+            <Text
+              ellipsizeMode="tail"
+              numberOfLines={1}
+            >
+              Task 3
+            </Text>
             <View
               accessible={true}
               focusable={true}
@@ -1118,25 +1001,12 @@ exports[`Storyshots PureTaskList default 1`] = `
                 }
               />
             </View>
-            <TextInput
-              allowFontScaling={true}
-              editable={false}
-              placeholder="Input Title"
-              rejectResponderTermination={true}
-              style={
-                Object {
-                  "backgroundColor": "transparent",
-                  "fontFamily": "NunitoSans",
-                  "fontSize": 14,
-                  "fontStyle": "normal",
-                  "lineHeight": 20,
-                  "padding": 10,
-                  "width": "95%",
-                }
-              }
-              underlineColorAndroid="transparent"
-              value="Task 4"
-            />
+            <Text
+              ellipsizeMode="tail"
+              numberOfLines={1}
+            >
+              Task 4
+            </Text>
             <View
               accessible={true}
               focusable={true}
@@ -1207,25 +1077,12 @@ exports[`Storyshots PureTaskList default 1`] = `
                 }
               />
             </View>
-            <TextInput
-              allowFontScaling={true}
-              editable={false}
-              placeholder="Input Title"
-              rejectResponderTermination={true}
-              style={
-                Object {
-                  "backgroundColor": "transparent",
-                  "fontFamily": "NunitoSans",
-                  "fontSize": 14,
-                  "fontStyle": "normal",
-                  "lineHeight": 20,
-                  "padding": 10,
-                  "width": "95%",
-                }
-              }
-              underlineColorAndroid="transparent"
-              value="Task 5"
-            />
+            <Text
+              ellipsizeMode="tail"
+              numberOfLines={1}
+            >
+              Task 5
+            </Text>
             <View
               accessible={true}
               focusable={true}
@@ -1296,25 +1153,12 @@ exports[`Storyshots PureTaskList default 1`] = `
                 }
               />
             </View>
-            <TextInput
-              allowFontScaling={true}
-              editable={false}
-              placeholder="Input Title"
-              rejectResponderTermination={true}
-              style={
-                Object {
-                  "backgroundColor": "transparent",
-                  "fontFamily": "NunitoSans",
-                  "fontSize": 14,
-                  "fontStyle": "normal",
-                  "lineHeight": 20,
-                  "padding": 10,
-                  "width": "95%",
-                }
-              }
-              underlineColorAndroid="transparent"
-              value="Task 6"
-            />
+            <Text
+              ellipsizeMode="tail"
+              numberOfLines={1}
+            >
+              Task 6
+            </Text>
             <View
               accessible={true}
               focusable={true}
@@ -2044,25 +1888,12 @@ exports[`Storyshots PureTaskList withPinnedTasks 1`] = `
                 }
               />
             </View>
-            <TextInput
-              allowFontScaling={true}
-              editable={false}
-              placeholder="Input Title"
-              rejectResponderTermination={true}
-              style={
-                Object {
-                  "backgroundColor": "transparent",
-                  "fontFamily": "NunitoSans",
-                  "fontSize": 14,
-                  "fontStyle": "normal",
-                  "lineHeight": 20,
-                  "padding": 10,
-                  "width": "95%",
-                }
-              }
-              underlineColorAndroid="transparent"
-              value="Task 6 (pinned)"
-            />
+            <Text
+              ellipsizeMode="tail"
+              numberOfLines={1}
+            >
+              Task 6 (pinned)
+            </Text>
             <View
               accessible={true}
               focusable={true}
@@ -2133,25 +1964,12 @@ exports[`Storyshots PureTaskList withPinnedTasks 1`] = `
                 }
               />
             </View>
-            <TextInput
-              allowFontScaling={true}
-              editable={false}
-              placeholder="Input Title"
-              rejectResponderTermination={true}
-              style={
-                Object {
-                  "backgroundColor": "transparent",
-                  "fontFamily": "NunitoSans",
-                  "fontSize": 14,
-                  "fontStyle": "normal",
-                  "lineHeight": 20,
-                  "padding": 10,
-                  "width": "95%",
-                }
-              }
-              underlineColorAndroid="transparent"
-              value="Task 1"
-            />
+            <Text
+              ellipsizeMode="tail"
+              numberOfLines={1}
+            >
+              Task 1
+            </Text>
             <View
               accessible={true}
               focusable={true}
@@ -2222,25 +2040,12 @@ exports[`Storyshots PureTaskList withPinnedTasks 1`] = `
                 }
               />
             </View>
-            <TextInput
-              allowFontScaling={true}
-              editable={false}
-              placeholder="Input Title"
-              rejectResponderTermination={true}
-              style={
-                Object {
-                  "backgroundColor": "transparent",
-                  "fontFamily": "NunitoSans",
-                  "fontSize": 14,
-                  "fontStyle": "normal",
-                  "lineHeight": 20,
-                  "padding": 10,
-                  "width": "95%",
-                }
-              }
-              underlineColorAndroid="transparent"
-              value="Task 2"
-            />
+            <Text
+              ellipsizeMode="tail"
+              numberOfLines={1}
+            >
+              Task 2
+            </Text>
             <View
               accessible={true}
               focusable={true}
@@ -2311,25 +2116,12 @@ exports[`Storyshots PureTaskList withPinnedTasks 1`] = `
                 }
               />
             </View>
-            <TextInput
-              allowFontScaling={true}
-              editable={false}
-              placeholder="Input Title"
-              rejectResponderTermination={true}
-              style={
-                Object {
-                  "backgroundColor": "transparent",
-                  "fontFamily": "NunitoSans",
-                  "fontSize": 14,
-                  "fontStyle": "normal",
-                  "lineHeight": 20,
-                  "padding": 10,
-                  "width": "95%",
-                }
-              }
-              underlineColorAndroid="transparent"
-              value="Task 3"
-            />
+            <Text
+              ellipsizeMode="tail"
+              numberOfLines={1}
+            >
+              Task 3
+            </Text>
             <View
               accessible={true}
               focusable={true}
@@ -2400,25 +2192,12 @@ exports[`Storyshots PureTaskList withPinnedTasks 1`] = `
                 }
               />
             </View>
-            <TextInput
-              allowFontScaling={true}
-              editable={false}
-              placeholder="Input Title"
-              rejectResponderTermination={true}
-              style={
-                Object {
-                  "backgroundColor": "transparent",
-                  "fontFamily": "NunitoSans",
-                  "fontSize": 14,
-                  "fontStyle": "normal",
-                  "lineHeight": 20,
-                  "padding": 10,
-                  "width": "95%",
-                }
-              }
-              underlineColorAndroid="transparent"
-              value="Task 4"
-            />
+            <Text
+              ellipsizeMode="tail"
+              numberOfLines={1}
+            >
+              Task 4
+            </Text>
             <View
               accessible={true}
               focusable={true}
@@ -2489,25 +2268,12 @@ exports[`Storyshots PureTaskList withPinnedTasks 1`] = `
                 }
               />
             </View>
-            <TextInput
-              allowFontScaling={true}
-              editable={false}
-              placeholder="Input Title"
-              rejectResponderTermination={true}
-              style={
-                Object {
-                  "backgroundColor": "transparent",
-                  "fontFamily": "NunitoSans",
-                  "fontSize": 14,
-                  "fontStyle": "normal",
-                  "lineHeight": 20,
-                  "padding": 10,
-                  "width": "95%",
-                }
-              }
-              underlineColorAndroid="transparent"
-              value="Task 5"
-            />
+            <Text
+              ellipsizeMode="tail"
+              numberOfLines={1}
+            >
+              Task 5
+            </Text>
             <View
               accessible={true}
               focusable={true}
@@ -2579,25 +2345,12 @@ exports[`Storyshots Task archived 1`] = `
     >
       <Text />
     </View>
-    <TextInput
-      allowFontScaling={true}
-      editable={false}
-      placeholder="Input Title"
-      rejectResponderTermination={true}
-      style={
-        Object {
-          "color": "#aaa",
-          "fontFamily": "NunitoSans",
-          "fontSize": 14,
-          "fontStyle": "normal",
-          "lineHeight": 20,
-          "padding": 10,
-          "width": "95%",
-        }
-      }
-      underlineColorAndroid="transparent"
-      value="Test Task"
-    />
+    <Text
+      ellipsizeMode="tail"
+      numberOfLines={1}
+    >
+      Test Task
+    </Text>
     <View
       accessible={true}
       focusable={true}
@@ -2677,25 +2430,97 @@ exports[`Storyshots Task default 1`] = `
         }
       />
     </View>
-    <TextInput
-      allowFontScaling={true}
-      editable={false}
-      placeholder="Input Title"
-      rejectResponderTermination={true}
+    <Text
+      ellipsizeMode="tail"
+      numberOfLines={1}
+    >
+      Test Task
+    </Text>
+    <View
+      accessible={true}
+      focusable={true}
+      isTVSelectable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
       style={
         Object {
-          "backgroundColor": "transparent",
-          "fontFamily": "NunitoSans",
-          "fontSize": 14,
-          "fontStyle": "normal",
-          "lineHeight": 20,
-          "padding": 10,
-          "width": "95%",
+          "opacity": 1,
         }
       }
-      underlineColorAndroid="transparent"
-      value="Test Task"
-    />
+    >
+      <Text />
+    </View>
+  </RCTSafeAreaView>
+</View>
+`;
+
+exports[`Storyshots Task long title 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#26c6da",
+      "color": "#333",
+      "flex": 1,
+      "fontSize": 16,
+    }
+  }
+>
+  <RCTSafeAreaView
+    emulateUnlessSupported={true}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "white",
+        "flexDirection": "row",
+        "flexWrap": "nowrap",
+        "height": 48,
+        "justifyContent": "space-around",
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      isTVSelectable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "transparent",
+            "borderColor": "#26c6da",
+            "borderRadius": 1,
+            "borderStyle": "solid",
+            "borderWidth": 2,
+            "height": 18,
+            "width": 18,
+          }
+        }
+      />
+    </View>
+    <Text
+      ellipsizeMode="tail"
+      numberOfLines={1}
+    >
+      This task's name is absurdly large. In fact, I think if I keep going I might end up with content overflow. What will happen? The star that represents a pinned task could have text overlapping. The text could cut-off abruptly when it reaches the star. I hope not!
+    </Text>
     <View
       accessible={true}
       focusable={true}
@@ -2775,25 +2600,12 @@ exports[`Storyshots Task pinned 1`] = `
         }
       />
     </View>
-    <TextInput
-      allowFontScaling={true}
-      editable={false}
-      placeholder="Input Title"
-      rejectResponderTermination={true}
-      style={
-        Object {
-          "backgroundColor": "transparent",
-          "fontFamily": "NunitoSans",
-          "fontSize": 14,
-          "fontStyle": "normal",
-          "lineHeight": 20,
-          "padding": 10,
-          "width": "95%",
-        }
-      }
-      underlineColorAndroid="transparent"
-      value="Test Task"
-    />
+    <Text
+      ellipsizeMode="tail"
+      numberOfLines={1}
+    >
+      Test Task
+    </Text>
     <View
       accessible={true}
       focusable={true}

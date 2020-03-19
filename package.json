@@ -6,7 +6,7 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "eject": "expo eject",
-    "test": "jest -u --watchAll ",
+    "test": "jest --watchAll",
     "storybook": "start-storybook -p 7007",
     "build-static-webapp": "expo build:web",
     "serve-app": "serve web-build"
